@@ -94,3 +94,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+// Added to include manual design
+
+// define( 'WPCF7_LOAD_JS', false );
+// define( 'WPCF7_LOAD_CSS', false );
+
+// Extra Section
+
+// define( 'WPCF7_AUTOP', false );
+
+// Added to include manual design
